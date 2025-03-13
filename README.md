@@ -1,8 +1,8 @@
-👋 Hi, I’m @DYUTIMAY266
-👀 I’m interested in data analytics, business intelligence, and full-stack development
-🌱 I’m currently learning Power BI, Tableau, Machine Learning, and Cloud Computing
-💞️ I’m looking to collaborate on BI dashboards, data-driven projects, and innovative software solutions
-📫 How to reach me: dyutimay26@gmail.com | LinkedIn
+- 👋 Hi, I’m @DYUTIMAY266
+- 👀 I’m interested in data analytics, business intelligence, and full-stack development
+- 🌱 I’m currently learning Power BI, Tableau, Machine Learning, and Cloud Computing
+- 💞️ I’m looking to collaborate on BI dashboards, data-driven projects, and innovative software solutions
+- 📫 How to reach me: dyutimay26@gmail.com | LinkedIn
 
 
 <!---
